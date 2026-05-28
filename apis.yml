@@ -1,0 +1,32 @@
+aid: nba-data
+name: NBA Data
+description: "All NBA Stats DATA, Games, Livescore, Standings, Statistics"
+url: https://rapidapi.com/api-sports/api/api-nba/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Sports & Fitness"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Sports And Fitness
+  - Public APIs
+apis:
+  - name: NBA Data
+    description: "All NBA Stats DATA, Games, Livescore, Standings, Statistics"
+    humanURL: https://rapidapi.com/api-sports/api/api-nba/
+    baseURL: https://rapidapi.com/api-sports/api/api-nba/
+    tags:
+      - Sports And Fitness
+    properties:
+      - type: Documentation
+        url: https://rapidapi.com/api-sports/api/api-nba/
+common:
+  - type: Website
+    url: https://rapidapi.com/api-sports/api/api-nba/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
