@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://rapidapi.com/api-sports/api/api-nba/
 common:
+  - type: DomainSecurity
+    url: security/nba-data-domain-security.yml
   - type: Website
     url: https://rapidapi.com/api-sports/api/api-nba/
   - type: PublicAPIsListing
